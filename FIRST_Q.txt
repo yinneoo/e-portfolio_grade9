@@ -1,0 +1,77 @@
+<html>
+<head><title> 1st Quarter</title></head>
+<body bgcolor="#db756e" text="#6e2f2b">
+<h1 align="center" ><u><i>FIRST QUARTER</i></u></h1>
+<table bgcolor="#dba29e" align="center" border="1px" bordercolor="White" width="80%" cellspacing="2px" cellpadding="1px">
+<tr>
+<td><b>Outputs</b></td>
+<td>Description</td>
+<td>Browser</td>
+<td>Code</td>
+</tr>
+<tr>
+<td>My experience on the first day of class (Create a notepad file)</td>
+<td>This was one we did on paper then transferred to our coding apps. We had to include:
+<ul type="square">
+<li>An audio file</li>
+<li>An image file</li>
+<li>Any background color</li>
+<li>Our experience in paragraph form</li>
+</ul></td>
+<td><img src="FIRSTOUTPUT.png" alt="Browser Output" width="500" height="200"></td>
+<td><img src="FIRSTOUTPUTC.png" alt="Code" width="500" height="200"></td>
+</tr>
+<tr>
+<td>Pairwork</td>
+<td>With my pair, Jazmin Baltazar, we followed a code given to us while filling in the necessary blanks. We may have gotten some of it wrong, though.<br><br>(Screenshots from Jazmin Baltazar)</td>
+<td><img src="PAIRWORK_BROWSER_1.png" alt="Browser Output" width="500" height="200"><br><img src="PAIRWORK_BROWSER_2.png"t="Browser Output" width="500" height="200"></td>
+<td><img src="PAIRWORK_CODE_1.png" alt="Code" width="200" height="400"><img src="PAIRWORK_CODE_2.png" alt="code" width="200" height="400"></td>
+</tr>
+<tr>
+<td>Groupwork</td>
+<td>With our respective groups, we listed down the:
+<ul>
+<li>Names</li>
+<li>Phone numbers</li>
+<li>Birthdays</li>
+<li>Addresses</li>
+</ul> of our members. We couldn't finish it, unfortunately, but managed to submit it before the end of the class.<br><br> (Screenshots from Kurt Recio)</td>
+<td><img src="GROUPWORK_Q1.jpg" alt="Browser Output" width="200" height="400"></td>
+<td><img src="GROUPWORK_CODE_Q1.jpg" alt="Code" width="200" height="400"></td>
+</tr>
+<tr>
+<td>Hyperlinks</td>
+<td>To show our understanding on our 5th ICT Lesson, we were tasked with the simple task of creating a website with only two hyperlinks:
+<ul type="square">
+<li>Favorite website link</li>
+<li>Email</li>
+</ul> Unfortunately, I had some trouble figuring out the email part.</td>
+<td><video width="320" height="240" controls><source src="HYPERLINKSACT.mp4" type="video/mp4"></video></td>
+<td><img src="hyperlinks_image.png" alt="Code" width="500" height="300"></td>
+</tr>
+<tr>
+<td>Forms</td>
+<td>Since the browser outputs for these are on the school's laptops, I will use my own examples.</td>
+<td><img src="forms.png" alt="Browser Output" width="500" height="300"></td>
+<td><img src="forms_browser.png" alt="Code" width="500" height="300"></td>
+</tr>
+<tr>
+<td>Pairwork(2)</td>
+<td>This time with my partner Kurt Mykel Recio, we copied the given form templates and put them on his tablet. We also were one of the first pairs finished!<br>(Screenshots from Kurt Recio)</td>
+<td><img src="----" alt="Browser Output" width="500" height="300"></td>  
+<td><img src="---" alt="Code" width="500" height="300"></td>
+</tr>
+<tr>
+<td>Creating a checkbox</td>
+<td>For our 8th lesson and our ICT hands-on (which is not with me), I decided to recreate one of the sample forms in the powerpoint.</td>
+<td><img src="dropdown_browser.png" alt="Browser Output" width="500" height="300"></td>
+<td><img src="dropdown_code.png" alt="Code" width="500" height="300"></td>
+</tr>
+<tr>
+<td>Reflection</td>
+<td>A reflection on my experiences during the first quarter.</td>
+<td align="center"><a href="FIRST REFLECTION.html" target="_parent">Browser</a></td>
+</tr>
+</table>
+</body>
+</html>
