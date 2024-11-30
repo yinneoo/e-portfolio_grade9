@@ -1,0 +1,6 @@
+<html>
+<head><title>1ST REFLECTION</title></html>
+<body bgcolor="#db756e" text="#6e2f2b">
+<h1 align="center" ><u><i>FIRST QUARTER REFLECTION</i></u></h1>
+<p align="center">hi</p>
+</html>
